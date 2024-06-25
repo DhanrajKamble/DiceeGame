@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+    font-family: cursive;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+   padding-top: 5rem;
+   font-size: 2.5rem;
+}
+p{
+    display: flex;
+    font-weight: bold;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+.container{
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.player1, .player2{
+    margin: 2rem;
+}
+
+footer{
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+}
